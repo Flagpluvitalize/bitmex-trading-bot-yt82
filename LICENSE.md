@@ -1,4 +1,4 @@
-# 
+# rare bitmex trading bot Addon | price-monitoring + take-profit offers the most advanced bitmex trading bot, with price-monitoring and take-profit. Ideal for professional traders
 
 
 
